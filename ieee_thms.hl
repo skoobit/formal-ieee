@@ -2,12 +2,12 @@
 (* IEEE FLOATING POINT THEOREMS                                               *)
 (* ========================================================================== *)
 
-(* needs "common.hl";; *)
-(* needs "fixed_thms.hl";; *)
-(* needs "fixed.hl";; *)
-(* needs "float_thms.hl";; *)
-(* needs "float.hl";; *)
-(* needs "ieee.hl";; *)
+(* needs "ieee/common.hl";; *)
+(* needs "ieee/fixed_thms.hl";; *)
+(* needs "ieee/fixed.hl";; *)
+(* needs "ieee/float_thms.hl";; *)
+(* needs "ieee/float.hl";; *)
+(* needs "ieee/ieee.hl";; *)
 
 (* -------------------------------------------------------------------------- *)
 (* Valid ieee_format properties                                               *)

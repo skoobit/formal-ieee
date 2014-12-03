@@ -2,10 +2,10 @@
 (* FLOATING POINT THEOREMS                                                    *)
 (* ========================================================================== *)
 
-(* needs "common.hl";; *)
-(* needs "fixed_thms.hl";; *)
-(* needs "fixed.hl";; *)
-(* needs "float.hl";; *)
+(* needs "ieee/common.hl";; *)
+(* needs "ieee/fixed_thms.hl";; *)
+(* needs "ieee/fixed.hl";; *)
+(* needs "ieee/float.hl";; *)
 
 (* -------------------------------------------------------------------------- *)
 (* Valid flformat properties                                                  *)

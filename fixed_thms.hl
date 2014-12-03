@@ -2,8 +2,8 @@
 (* FIXED POINT THEOREMS                                                       *)
 (* ========================================================================== *)
 
-(* needs "common.hl";; *)
-(* needs "fixed.hl";; *)
+(* needs "ieee/common.hl";; *)
+(* needs "ieee/fixed.hl";; *)
 
 (* -------------------------------------------------------------------------- *)
 (* Valid fformat properties                                                   *)

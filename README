@@ -1,0 +1,19 @@
+Overview
+--------
+
+This repository contains a formalization of IEEE floating point numbers.
+First, we formalize fixed point numbers so we can model IEEE subnormal
+numbers (in fixed.hl and fixed_thms.hl). Next, we formalize
+`generalized' floating point numbers to model IEEE normal numbers
+(in float.hl and float_thms.hl; Cf. John Harrison's work and the Coq
+formalization). Finally, we piece the two formalizations together to
+formalize IEEE (ieee.hl and ieee_thms.hl).
+
+In the process, we needed a formalization and basic theorems for raising
+real numbers to an integer power; this is in common.hl.
+
+Usage
+-----
+
+To load the theorems and formalizations, load make.hl after loading base
+HOL Light.

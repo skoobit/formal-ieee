@@ -2,8 +2,8 @@
 (* FLOATING POINT DEFINITIONS                                                 *)
 (* ========================================================================== *)
 
-(* needs "common.hl";; *)
-(* needs "fixed.hl";; *)
+(* needs "ieee/common.hl";; *)
+(* needs "ieee/fixed.hl";; *)
 
 (* References:                                                                *)
 (*                                                                            *)

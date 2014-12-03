@@ -1,0 +1,11 @@
+(* -------------------------------------------------------------------------- *)
+(* Load this file to get all theorems and formalizations.                     *)
+(* -------------------------------------------------------------------------- *)
+
+loadt "ieee/common.hl";;
+loadt "ieee/fixed.hl";;
+loadt "ieee/fixed_thms.hl";;
+loadt "ieee/float.hl";;
+loadt "ieee/float_thms.hl";;
+loadt "ieee/ieee.hl";;
+loadt "ieee/ieee_thms.hl";;
