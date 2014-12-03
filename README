@@ -12,6 +12,9 @@ formalize IEEE (ieee.hl and ieee_thms.hl).
 In the process, we needed a formalization and basic theorems for raising
 real numbers to an integer power; this is in common.hl.
 
+IEEE floating point numbers are treated as a subset of the real numbers.
+We can model mostly everything except signed zero and NaNs.
+
 Usage
 -----
 
