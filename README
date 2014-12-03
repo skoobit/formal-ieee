@@ -18,5 +18,9 @@ We can model mostly everything except signed zero and NaNs.
 Usage
 -----
 
-To load the theorems and formalizations, load make.hl after loading base
+Clone this repository into your HOL Light directory under ieee:
+
+   git clone <repo url> <hol dir>/ieee
+
+To load the theorems and formalizations, load ieee/make.hl after loading base
 HOL Light.
